@@ -1,4 +1,4 @@
-elves = open("D:\\AdventOfCode2022\Day 1\Elves.txt", "r")
+elves = open("D:\\Code\Advent-of-code-2022\Day 1\Elves.txt", "r")
 total = 0
 biggest = 0
 

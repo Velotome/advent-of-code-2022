@@ -1,4 +1,4 @@
-strat = open("D:\\AdventOfCode2022\Day 2\strat.txt", "r")
+strat = open("D:\\Code\Advent-of-code-2022\Day 2\strat.txt", "r")
 total = 0
 point = 0
 
